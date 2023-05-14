@@ -43,10 +43,10 @@ def plot(img):
     plt.axis('off')
  ```
  ```py
-#Create the text using cv2.putText
+# Create the text using cv2.putText
 image = np.zeros((200,1150),dtype='uint8')
-font=cv2.FONT_HERSHEY_SCRIPT_COMPLEX
-cv2.putText(image,'Shafeeq Ahamed',(20,140),font,5,(255),3,cv2.LINE_AA)
+font=cv2.FONT_HERSHEY_DUPLEX
+cv2.putText(image,'Silambarasan',(20,140),font,5,(255),3,cv2.LINE_AA)
 plot(image)
 ```
 
