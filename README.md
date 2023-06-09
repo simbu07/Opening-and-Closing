@@ -1,5 +1,5 @@
-# Opening and Closing
-
+## Ex-11 Opening and Closing
+**Date:17/05/2023**
 ### Aim:
 To implement Opening and Closing using Python and OpenCV.
 
